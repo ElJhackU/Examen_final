@@ -11,9 +11,7 @@ function ExerciseCard({ image, name, description }) {
 
       <div className="exercise-card">
         <ExerciseImage src={image} alt={name} />
-
         <ExerciseText name={name} description={description} />
-
         <ArrowIcon />
       </div>
     </div>

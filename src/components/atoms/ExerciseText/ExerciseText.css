@@ -1,0 +1,16 @@
+.exercise-text {
+  flex: 1;
+}
+
+.exercise-text h2 {
+  color: #ffffff;
+  font-size: 28px;
+  margin: 0 0 12px 0;
+  font-weight: 700;
+}
+
+.exercise-text p {
+  color: #c9c9d1;
+  font-size: 24px;
+  margin: 0;
+}

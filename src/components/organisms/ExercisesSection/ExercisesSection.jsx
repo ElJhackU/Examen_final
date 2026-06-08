@@ -8,19 +8,19 @@ function ExercisesSection() {
       name: "Puxada frontal",
       description: "3 series x 12 repeticiones",
       image:
-        "https://images.unsplash.com/photo-1598971639058-fab3c3109a00?auto=format&fit=crop&w=400&q=80",
+        "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=400&q=80",
     },
     {
       name: "Remada curvada",
       description: "3 series x 12 repeticiones",
       image:
-        "https://images.unsplash.com/photo-1534367610401-9f5ed68180aa?auto=format&fit=crop&w=400&q=80",
+        "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=400&q=80",
     },
     {
       name: "Remada unilateral",
       description: "3 series x 12 repeticiones",
       image:
-        "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=400&q=80",
+        "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?auto=format&fit=crop&w=400&q=80",
     },
     {
       name: "Levantamiento terra",

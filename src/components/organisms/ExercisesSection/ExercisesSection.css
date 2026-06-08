@@ -1,5 +1,6 @@
 .exercises-section {
   width: 630px;
+  max-width: 100%;
 }
 
 .exercises-list {

@@ -1,0 +1,7 @@
+.exercise-image {
+  width: 115px;
+  height: 85px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
