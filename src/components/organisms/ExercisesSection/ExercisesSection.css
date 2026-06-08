@@ -1,0 +1,8 @@
+.exercises-section {
+  width: 630px;
+}
+
+.exercises-list {
+  display: flex;
+  flex-direction: column;
+}
