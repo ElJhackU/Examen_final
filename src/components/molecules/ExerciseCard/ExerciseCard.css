@@ -1,0 +1,12 @@
+.exercise-item {
+  margin-bottom: 12px;
+}
+
+.exercise-card {
+  background-color: #29292f;
+  border-radius: 12px;
+  padding: 13px 24px 13px 14px;
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
